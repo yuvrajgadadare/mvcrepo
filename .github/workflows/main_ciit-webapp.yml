@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'CIIT-WebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02B13FE320374F1FA5F062198FABA051 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAD3166839754BC1899635B627C48179 }}
           package: .
